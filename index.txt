@@ -1,1 +1,2 @@
-This is just checking of my project 
+This is just checking of my project  version 1
+
