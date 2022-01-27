@@ -1,1 +1,25 @@
-day 1
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() 
+{
+	int a [4]={10,15,3,7};
+
+	int b=17;
+	for (int i = 0 ; i<=0; ++i)
+	{
+		for (int j = i; j<=3; ++j)
+		{
+        if (a[i]+a[j]==b)
+		{
+			cout<<"valid pair exist";
+		}
+		else{
+			cout<<"no valid pair is there ";
+		}	
+		cout<<endl;	
+	}
+	cout<<endl;
+	}
+	
+}
